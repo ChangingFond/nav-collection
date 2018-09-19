@@ -120,14 +120,14 @@
                     {
                         "Name": "前端网（QDFuns）",
                         "Title": "人气爆棚的知识分享专业社区，优秀WEB前端开发工程师聚集地，提供面向前端工程师综合性服务的一站式服务平台",
-                        "Img": "https://cdn.static.qdfuns.com/images/logos/logo256.png",
+                        "Img": "https://cdn.static.qdfuns.com/images/logos/logo.png",
                         "Num": "99",
                         "Href": "https://www.qdfuns.com/"
                     },
                     {
                         "Name": "爱前端网",
                         "Title": "专注前端开发,关注用户体验",
-                        "Img": "https://cdn.static.qdfuns.com/images/logos/logo256.png",
+                        "Img": "http://www.i7758.com/favicon.ico",
                         "Num": "99",
                         "Href": "http://www.i7758.com/"
                     },
@@ -301,7 +301,7 @@
 					{
 						"Name": "极客学院",
 						"Title": "在线视频教学，强大的知识体系",
-						"Img": "http://img3.imgtn.bdimg.com/it/u=3084738366,200719263&fm=23&gp=0.jpg",
+						"Img": "https://e.jikexueyuan.com/headerandfooter/images/logo.png?t=1513326254000",
 						"Num": "99",
 						"Href": "http://www.jikexueyuan.com/"
 					},
@@ -323,7 +323,7 @@
 					{
 						"Name": "萌码",
 						"Title": "在线编程学习，实时问答，交互学习",
-						"Img": "http://s.mengma.com/img/mm_logo.png",
+						"Img": "",
 						"Num": "99",
 						"Href": "http://www.mengma.com/"
 					},
@@ -447,8 +447,8 @@
 					{
 						"Href": "https://guide.aotu.io/",
 						"Name": "aotu",
-						"Img": "https://guide.aotu.io/assets/img/logo-b35dc615c5.png",
-						"Title": "凹凸实验室规范文档",
+						"Img": "https://guide.aotu.io/img/favicon-32x32.png",
+						"Title": "凹凸实验室前端代码规范文档",
 						"Num": "50"
 					}
 				]
@@ -924,7 +924,7 @@
 					{
 						"Name": "物勒工名",
 						"Title": "物勒工名，以考其诚，工有不当，必行其罪。",
-						"Img": "http://feexp.org/images/main.png",
+						"Img": "",
 						"Num": "99",
 						"Href": "http://feexp.org/"
 					},
@@ -949,10 +949,12 @@
 	{
 		"pageT1": "CSS/HTML",
 		"T1Name": "html-copy",
-		"pageC1": [{
+		"pageC1": [
+            {
 				"pageT2": "CSS",
 				"T2Name": "socialcss3",
-				"pageC2": [{
+				"pageC2": [
+                    {
 						"Href": "http://www.haorooms.com/tools/css_selecter/",
 						"Name": "CSS 选择器演示",
 						"Img": "https://pic3.zhimg.com/675292516_xll.jpg",
@@ -1052,6 +1054,68 @@
 					}
 				]
 			},
+            {
+                "pageT2": "UI框架",
+                "T2Name": "socialcss3",
+                "pageC2": [
+                    {
+                        "Href": "https://www.layui.com/",
+                        "Name": "Layui",
+                        "Img": "https://res.layui.com/static/images/layui/logo.png",
+                        "Title": "经典模块化前端UI框架",
+                        "Num": 99
+                    },
+                    {
+                        "Name": "Kube",
+                        "Title": "Kube UI Framework",
+                        "Img": "",
+                        "Num": "99",
+                        "Href": "https://imperavi.com/kube/"
+                    },
+                    {
+                        "Name": "Pure",
+                        "Title": "美国雅虎公司出品的一组轻量级、响应式纯css模块，适用于任何Web项目",
+                        "Img": "",
+                        "Num": "99",
+                        "Href": "https://www.purecss.cn/"
+                    },
+                    {
+                        "Name": "Flat UI",
+                        "Title": "免费的WEB界面工具组件库",
+                        "Img": "",
+                        "Num": "99",
+                        "Href": "http://www.bootcss.com/p/flat-ui/"
+                    },
+                    {
+                        "Name": "Semantic UI",
+                        "Title": "用户界面是Web的语言",
+                        "Img": "",
+                        "Num": "99",
+                        "Href": "http://www.semantic-ui.cn/"
+                    },
+                    {
+                        "Name": "Milligram",
+                        "Title": "A minimalist CSS framework",
+                        "Img": "",
+                        "Num": "99",
+                        "Href": "https://milligram.io/"
+                    },
+                    {
+                        "Name": "Concise CSS",
+                        "Title": "Give up the bloat. Stop tripping over your classes. Be Concise.",
+                        "Img": "",
+                        "Num": "99",
+                        "Href": "http://concisecss.com/"
+                    },
+                    {
+                        "Name": "SUI",
+                        "Title": "简单易用、功能强大的UI库",
+                        "Img": "",
+                        "Num": "99",
+                        "Href": "http://sui.taobao.org"
+                    }              
+                ]
+            },
 			{
 				"pageT2": "HTML5",
 				"T2Name": "html-copy",
@@ -2442,6 +2506,13 @@
 						"Num": "99",
 						"Href": ""
 					},
+                    {
+                        "Name": "Smart Resize",
+                        "Title": "最智能的在线批量图片裁剪工具",
+                        "Img": "",
+                        "Num": "99",
+                        "Href": "https://www.smartresize.com/zh-cn"
+                    },
 					{
 						"Name": "马克鳗",
 						"Title": "设计稿标注、测量神器",
@@ -3365,6 +3436,13 @@
 						"Num": "99",
 						"Href": "http://blog.gejiawen.com/"
 					},
+                    {
+                        "Name": "段亮",
+                        "Title": "分享web前端和SEO技术的个人博客网站",
+                        "Img": "https://cdn.duanliang920.com/assets/web/favicon.ico",
+                        "Num": "99",
+                        "Href": "https://www.duanliang920.com/"
+                    },
 					{
 						"Name": "Meekdai",
 						"Title": "童话是一种生活态度，仅此而已！",
